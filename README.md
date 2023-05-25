@@ -31,7 +31,7 @@ Feel free to try out different date formats and observe the accurate age calcula
 
 ## Contributions
 
-Contributions to Age Wizard are always welcome! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/age-wizard).
+Contributions to Age Wizard are always welcome! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Alok-2002/Age_Wizard_An_Age_Calculator/tree/main).
 
 ## License
 
