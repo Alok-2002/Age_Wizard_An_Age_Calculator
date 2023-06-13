@@ -47,5 +47,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 For any inquiries or feedback, please contact [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
 
 Thank you for using Age Wizard! We hope you find it helpful and enjoyable.
-
-Note: Since you mentioned that you have deployed the Age Wizard, please update the URL in the "Age Wizard Live Demo" section to the appropriate link where users can access and use the deployed application.
